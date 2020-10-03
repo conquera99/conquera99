@@ -1,15 +1,15 @@
 # Conquera99
 Find me in social media:
 <p align='center'>
-    <a href="https://dev.to/conquera99">
+    <a href="https://dev.to/conquera99" target="_blank">
         <img height="25" src="https://raw.githubusercontent.com/conquera99/conquera99/master/icons/dev.png" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://twitter.com/conquera99">
+    <a href="https://twitter.com/conquera99" target="_blank">
         <img height="25" src="https://raw.githubusercontent.com/conquera99/conquera99/master/icons/twitter.png" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://instagram.com/conquera99">
+    <a href="https://instagram.com/conquera99" target="_blank">
         <img height="25" src="https://raw.githubusercontent.com/conquera99/conquera99/master/icons/instagram.png" />
     </a>
 </p>
