@@ -20,6 +20,8 @@ Find me in social media:
 
 # Github Stats
 
+![](https://komarev.com/ghpvc/?username=conquera99)
+
 <div>
     <a href="https://github.com/conquera99/conquera99">
         <img style="margin: 0 auto; display: block;" alt="most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conquera99&layout=compact" />
