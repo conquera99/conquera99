@@ -22,6 +22,7 @@ Find me in social media:
 
 ![](https://komarev.com/ghpvc/?username=conquera99)
 
+<!--
 <div>
     <a href="https://github.com/conquera99/conquera99">
         <img style="margin: 0 auto; display: block;" alt="most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conquera99&layout=compact" />
@@ -38,4 +39,5 @@ Find me in social media:
     <a href="https://github.com/conquera99/conquera99">
         <img style="margin: 0 auto; display: block;" alt="wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=conquera99" />
     </a>
-</div>
+</div> 
+-->
